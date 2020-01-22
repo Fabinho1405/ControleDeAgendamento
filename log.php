@@ -3,7 +3,7 @@
 
 /*function salvaLog($mensagem) {
 
-//$ip = $_SERVER['REMOTE_ADDR']; // Salva o IP do visitante
+//$ip = $_SERVER['REMOTE_ADDR']; // Salva o IP do visitante ate entao né
 
 // Usamos o mysql_escape_string() para poder inserir a mensagem no banco
 //   sem ter problemas com aspas e outros caracteres
