@@ -1,0 +1,105 @@
+[17-Dec-2019 16:39:10 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/cda/public_html/email/relatorioDiarioProducao.php on line 34
+[17-Dec-2019 16:39:10 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/cda/public_html/email/relatorioDiarioProducao.php on line 35
+[17-Dec-2019 16:40:18 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/cda/public_html/email/relatorioDiarioProducao.php on line 34
+[17-Dec-2019 16:40:18 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/cda/public_html/email/relatorioDiarioProducao.php on line 35
+[17-Dec-2019 16:41:26 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/cda/public_html/email/relatorioDiarioProducao.php on line 34
+[17-Dec-2019 16:54:36 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/cda/public_html/email/relatorioDiarioProducao.php on line 61
+[17-Dec-2019 16:58:32 UTC] PHP Notice:  Undefined variable: lihaScouters in /home/cda/public_html/email/relatorioDiarioProducao.php on line 61
+[17-Dec-2019 16:58:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cda/public_html/email/relatorioDiarioProducao.php on line 61
+[17-Dec-2019 17:05:22 UTC] PHP Notice:  Undefined variable: lihaScouters in /home/cda/public_html/email/relatorioDiarioProducao.php on line 61
+[17-Dec-2019 17:05:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cda/public_html/email/relatorioDiarioProducao.php on line 61
+[17-Dec-2019 17:08:57 UTC] PHP Notice:  Undefined variable: lihaScouters in /home/cda/public_html/email/relatorioDiarioProducao.php on line 61
+[17-Dec-2019 17:08:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cda/public_html/email/relatorioDiarioProducao.php on line 61
+[17-Dec-2019 17:23:20 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:23:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:40
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(83): pegaQTD('1108', 1)
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:23:33 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:40
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(83): pegaQTD('1108', 1)
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:23:39 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:40
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(83): pegaQTD('1108', 1)
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:24:15 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:24:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:40
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(83): pegaQTD('1108', 1)
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:24:55 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:40
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(83): pegaQTD('1108', 1)
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:24:57 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:40
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(83): pegaQTD('1108', 1)
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 40
+[17-Dec-2019 17:26:06 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 64
+[17-Dec-2019 17:26:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:64
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(86): pegaQTD('1108', 1)
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 64
+[17-Dec-2019 17:27:47 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 68
+[17-Dec-2019 17:27:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:68
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(86): pegaQTD('1108', 1)
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 68
+[17-Dec-2019 17:34:10 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 68
+[17-Dec-2019 17:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:68
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(86): pegaQTD('1108', 1)
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 68
+[17-Dec-2019 17:34:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/cda/public_html/email/relatorioDiarioProducao.php on line 86
+[17-Dec-2019 17:34:43 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 63
+[17-Dec-2019 17:34:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:63
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(86): pegaQTD('1108', 1, '2019-12-16')
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 63
+[17-Dec-2019 17:35:12 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 63
+[17-Dec-2019 17:35:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:63
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(86): pegaQTD('1108', 1, '2019-12-16')
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 63
+[17-Dec-2019 17:36:41 UTC] PHP Notice:  Undefined variable: pdo in /home/cda/public_html/email/relatorioDiarioProducao.php on line 63
+[17-Dec-2019 17:36:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/cda/public_html/email/relatorioDiarioProducao.php:63
+Stack trace:
+#0 /home/cda/public_html/email/relatorioDiarioProducao.php(81): pegaQTD('1108', 1, '2019-12-16')
+#1 {main}
+  thrown in /home/cda/public_html/email/relatorioDiarioProducao.php on line 63
+[17-Dec-2019 17:37:58 UTC] PHP Notice:  Undefined variable: dateP in /home/cda/public_html/email/relatorioDiarioProducao.php on line 64
+[17-Dec-2019 17:37:58 UTC] PHP Notice:  Undefined variable: scouter in /home/cda/public_html/email/relatorioDiarioProducao.php on line 65
+[17-Dec-2019 17:37:58 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 67
+[17-Dec-2019 17:37:58 UTC] PHP Notice:  Undefined variable: dateP in /home/cda/public_html/email/relatorioDiarioProducao.php on line 72
+[17-Dec-2019 17:37:58 UTC] PHP Notice:  Undefined variable: scouter in /home/cda/public_html/email/relatorioDiarioProducao.php on line 73
+[17-Dec-2019 17:37:58 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 75
+[17-Dec-2019 17:38:59 UTC] PHP Notice:  Undefined variable: scouter in /home/cda/public_html/email/relatorioDiarioProducao.php on line 65
+[17-Dec-2019 17:38:59 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 67
+[17-Dec-2019 17:38:59 UTC] PHP Notice:  Undefined variable: scouter in /home/cda/public_html/email/relatorioDiarioProducao.php on line 73
+[17-Dec-2019 17:38:59 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 75
+[17-Dec-2019 17:40:11 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 74
+[17-Dec-2019 17:40:11 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 82
+[17-Dec-2019 17:40:11 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 74
+[17-Dec-2019 17:40:11 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 82
+[17-Dec-2019 17:40:11 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 74
+[17-Dec-2019 17:40:11 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 82
+[17-Dec-2019 17:40:11 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 74
+[17-Dec-2019 17:40:11 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 82
+[17-Dec-2019 17:40:11 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 74
+[17-Dec-2019 17:40:11 UTC] PHP Notice:  Undefined variable: meioCaptado in /home/cda/public_html/email/relatorioDiarioProducao.php on line 82
